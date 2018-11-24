@@ -15,7 +15,7 @@
 ### Experience
 > 2018 |&nbsp;&nbsp;&nbsp; ReactJs Developer
 
-> 2013-2015 |&nbsp;&nbsp;&nbsp; Web Developer
+> 2013-2016 |&nbsp;&nbsp;&nbsp; Web Developer
 
 ### Trainings
 
