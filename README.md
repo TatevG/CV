@@ -10,10 +10,12 @@
 
 ### Profile
 
->Currently looking for a new job as Front-end/ReactJs Developer. Active team player, always hungry for knowledge and happy to learn and share something new.
+>Currently work at TUMO Center for Creative Technologies as VueJs Developer. Active team player, always hungry for knowledge, and happy to learn and share something new.
 
 ### Experience
-> 2018 |&nbsp;&nbsp;&nbsp; ReactJs Developer
+> 2019-now |&nbsp;&nbsp;&nbsp; VueJS Developer
+
+> 2018 - 2019 |&nbsp;&nbsp;&nbsp; ReactJs Developer
 
 > 2013-2016 |&nbsp;&nbsp;&nbsp; Web Developer
 
@@ -27,7 +29,7 @@
 
 ### Skills
 
->  Programming &nbsp;&nbsp;&nbsp; ReactJS, Redux, JavaScript, HTML/HTML5, CSS/CSS3, SASS
+>  Programming &nbsp;&nbsp;&nbsp; VueJS, Vuex, Vuetify, ReactJS, Redux, JavaScript, HTML/HTML5, CSS/CSS3, SASS
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiarity with: Webpack, NodeJS, MongoDB, GraphQL, ElectronJS, Pug, PHP, MySQL, WordPress
 
 > General &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Visual Studio Code, Atom, WebStorm, MS Office, Linux(Ubuntu)
@@ -42,8 +44,3 @@
 > 2007 - 2011 &nbsp;&nbsp;&nbsp; Yerevan State University, Faculty of Informatics and Applied Mathematics, BSc.
 
 > 1997 - 2006 &nbsp;&nbsp;&nbsp; School # 160 Secondary School
-
-[Codefights Account](https://app.codesignal.com/profile/tatevik_g1)
-
-[SoloLearn Account](https://www.sololearn.com/Profile/3555971)
-
